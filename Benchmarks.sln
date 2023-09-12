@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmarks", "Benchmarks\Benchmarks.csproj", "{A9382D95-E0E9-470D-BD6E-7B3DAFCED29E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmarks.Tests", "Benchmarks.Tests\Benchmarks.Tests.csproj", "{18E5F567-143D-4A0F-9EA5-69B507C6F391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9382D95-E0E9-470D-BD6E-7B3DAFCED29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9382D95-E0E9-470D-BD6E-7B3DAFCED29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9382D95-E0E9-470D-BD6E-7B3DAFCED29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9382D95-E0E9-470D-BD6E-7B3DAFCED29E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E5F567-143D-4A0F-9EA5-69B507C6F391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E5F567-143D-4A0F-9EA5-69B507C6F391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E5F567-143D-4A0F-9EA5-69B507C6F391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E5F567-143D-4A0F-9EA5-69B507C6F391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
